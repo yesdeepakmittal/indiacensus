@@ -1,2 +1,5 @@
-# India_Sex_Ratio_Religion_wise
-The Sex Ratio of various religion in India as compare to one of its states, Uttar Pradesh.
+# India Census
+The India census data analysis reporsitory. 
+
+### Dataset Source
+* Census India[https://censusindia.gov.in/2011census/population_enumeration.html]
